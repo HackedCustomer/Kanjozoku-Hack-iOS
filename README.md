@@ -8,6 +8,10 @@ https://i.imgur.com/Grg2okc.jpg
 hack features: 
 -100,000,000 JPV
 -100,000,000 Gems
+-added AE86 wih an estimated 
+ 100,000,000HP
+ (still unclear)
+
 
 game version tested on:
 -1.0.5 (Latest as of 2/2/23)
@@ -54,3 +58,10 @@ installation:
 
 -step 9 
  launch the game.
+
+
+
+note: 
+-do not change any engine
+ parts on the AE86 or else
+ the HP will reset
