@@ -1,7 +1,8 @@
 
-Kanjozoku Saved File Hack for IOS (2023)
+Kanjozoku Saved File Hack for IOS (1.0.5)
 
-
+photo:
+https://i.imgur.com/Grg2okc.jpg
 
 
 hack features: 
@@ -10,22 +11,21 @@ hack features:
 
 game version tested on:
 -1.0.5 (Latest as of 2/2/23)
+       (should work on every version)
 
 works on:
 -iOS 10 - iOS 16 (Latest)
- (it works on every iOS version that the 
- game supports)
 
 requirements:
--Jailbroken device
--Filza
+-A jailbroken device
+-Filza needs to be installed
 
 warning before installation:
-a saved file hack is meant to replace your 
-data with a hacked save file meaning your
-data will be completely lost and you will
-start from zero. it is highly recommended
-that you create a backup "save.data" file.
+-a saved file hack is meant to replace your 
+ data with a hacked save file meaning your
+ data will be completely lost and you will
+ start from zero. it is highly recommended
+ that you create a backup "save.data" file.
 
 
 installation:
