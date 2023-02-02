@@ -41,7 +41,7 @@ installation:
  until an interaction menu is shown.
 -step 5
  click on "copy" and navigate to 
- var/mobile/containers/application/
+ var/mobile/containers/data/application/
  kanjozoku game/documents
 -step 6
  press the clipboard at the bottom left 
